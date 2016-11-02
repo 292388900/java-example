@@ -15,6 +15,7 @@ import java.util.regex.Pattern;
  * @since 1.0
  */
 public class NetUtils implements Serializable {
+
     private static final long serialVersionUID = 2123670526741681276L;
 
     public static final String LOCALHOST = "127.0.0.1";
